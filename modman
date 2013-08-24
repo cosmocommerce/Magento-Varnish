@@ -1,0 +1,8 @@
+code/*                                       app/code/community/Betabrand/Varnish/
+adminhtml/layout/varnish.xml                 app/design/adminhtml/default/default/layout/varnish.xml
+frontend/layout/varnish.xml                  app/design/frontend/default/default/layout/varnish.xml
+frontend/template/varnish/*                  app/design/frontend/default/default/template/varnish/
+etc/Betabrand_Varnish.xml                    app/etc/modules/Betabrand_Varnish.xml
+Credis/*                                     app/code/local/Credis/
+Varien/*                                     app/code/local/Varien/
+lib/Credis/*                                 lib/Credis/
